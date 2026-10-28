@@ -1,0 +1,10 @@
+{
+  "name": "Shack_Workbench_Pack",
+  "version_number": "1.2.0",
+  "website_url": "",
+  "description": "A workbench (and forge) you carry: upgrade them like gear, wear the workbench and press Tab to craft from your back, or set them down side by side as a small workbench and forge. The server and every player need it.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}
